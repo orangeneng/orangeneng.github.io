@@ -1,7 +1,7 @@
 # Site settings
 title: neng‘s World
 SEOTitle:  Everything can be ‘neng’
-header-img: img/touxiang.jpeg
+header-img: img/5GwLlb-_UYk.jpg
 email: xzhangfa@connect.ust.hk
 description: "让数据减少生活的信息差"
 keyword: "分享生活, 记录成长"
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: orangeneng.github.io    #仓库名称
+  owner: orangeneng    #github用户名
+  admin: orangeneng
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
