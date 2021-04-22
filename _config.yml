@@ -16,10 +16,10 @@ sidebar-avatar: /img/touxiang.jpeg     # use absolute URL, seeing it's used in b
 
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     ballball就要fo
 # zhihu_username:     qiubaiying
-github_username:    orangeneng
+github_username:    https://github.com/orangeneng
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
