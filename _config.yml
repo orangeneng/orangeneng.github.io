@@ -3,7 +3,7 @@ title: neng‘s World
 SEOTitle:  Everything can be ‘neng’
 header-img: img/touxiang.jpeg
 email: xzhangfa@connect.ust.hk
-description: "让数据减少生活信息差"
+description: "让数据减少生活的信息差"
 keyword: "分享生活, 记录成长"
 url: "https://orangeneng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -20,7 +20,7 @@ sidebar-avatar: /img/touxiang.jpeg     # use absolute URL, seeing it's used in b
 RSS: false
 weibo_username:     ballball就要fo
 # zhihu_username:     qiubaiying
-# github_username:    qiubaiying
+github_username:    orangeneng
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
