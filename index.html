@@ -22,15 +22,7 @@ description: "让数据减少生活信息差"
 -->
 
 {% for post in paginator.posts %}
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?395e7f393da2ff2ae258f0bd0d870873";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
+
 
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
